@@ -68,6 +68,5 @@ Implementation of this module can be in different methods, such as an emergency 
 * Cost efficient as sensors are cheap.
 * Power consumption is minimal and it is solar powered so maintenance cost is low.
 * Neighbouring villages could be alarmed before the fire is spread.
-* The forest fire prevention is just one example of its applications, this technology 
-* monitoring animal habitat, monitoring health status of bridges
-*  can also be used in major areas such as alarm floods, environmental detection, intelligent transportation.
+* The forest fire prevention is just one example of its applications, this technology it can also be used for monitoring animal habitat, health status of bridges
+*  This structure can also be used in major disasters such as  flood alarms, environmental detection, intelligent transportation.
