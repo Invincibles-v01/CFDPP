@@ -22,7 +22,7 @@ A study made by the Forest Survey of India reveals that
 *  58% in Uttar Pradesh and 
 * 33% in West Bengal
 
-is the repetition probability of forest fires in various states in India
+have a risk of being subjected to repeated annual fires
 
 India loses around **Rs 550 crore every year** owing to damages caused by forest fires. 
 	
